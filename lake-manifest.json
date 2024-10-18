@@ -78,7 +78,7 @@
    "rev": "880f820ecbc128166a9a07b19497d1b4fa8090ae",
    "name": "LeanCopilot",
    "manifestFile": "lake-manifest.json",
-   "inputRev": "main",
+   "inputRev": "v1.6.0",
    "inherited": false,
    "configFile": "lakefile.lean"}],
  "name": "myproject",
